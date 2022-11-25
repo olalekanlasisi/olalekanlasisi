@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Olalekan Lasisi</h1>
-<h3 align="center">A passionate software quality engineer with experience in automation</h3>
+<h3 align="center">A highly dedicated and self-motivated individual with more than 5 years' experience
+in software quality assurance, engineering and management. Adept in making key
+decisions and working with other professionals to achieve goals and solve problems</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=olalekanlasisi&label=Profile%20views&color=0e75b6&style=flat" alt="olalekanlasisi" /> </p>
 
