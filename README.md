@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=olalekanlasisi&label=Profile%20views&color=0e75b6&style=flat" alt="olalekanlasisi" /> </p>
 
-- 💬 Ask me about **Cypress, Selenium, Manual Automation, Jira, Postman**
+- 💬 Ask me about **Cypress, Webdriverio, Selenium, Playwright, Manual Automation, Jira, Postman**
 
 - 📫 How to reach me **lasisiolalekan25@gmail.com**
 
