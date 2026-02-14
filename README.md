@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Olalekan Lasisi</h1>
-<h3 align="center">A highly dedicated and self-motivated individual with more than 5 years' experience
-in software quality assurance, engineering and management. Adept in making key
-decisions and working with other professionals to achieve goals and solve problems</h3>
+<h3 align="center">Senior Quality Engineer with 10+ years of experience dedicated to the principle of Living for the Customer. I embody an "All Starts with Me" ownership mindset, proactively supporting development teams and mentoring peers to ensure every sprint succeeds. By Thinking Big about scalable AWS automation and Moving Fast to optimize CI/CD pipelines, I have slashed manual testing by 70% and deployment times by 50%.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=olalekanlasisi&label=Profile%20views&color=0e75b6&style=flat" alt="olalekanlasisi" /> </p>
 
