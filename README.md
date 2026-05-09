@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Olalekan Lasisi</h1>
-<h3 align="center">Senior Quality Engineer with 10+ years of experience dedicated to the principle of Living for the Customer. I embody an "All Starts with Me" ownership mindset, proactively supporting development teams and mentoring peers to ensure every sprint succeeds. By Thinking Big about scalable AWS automation and Moving Fast to optimize CI/CD pipelines, I have slashed manual testing by 70% and deployment times by 50%.</h3>
+<h3 align="center">Results-driven Senior Quality Engineer with 7+ years of experience designing and executing end-to-end test strategies across cloud-native, microservices, and real estate technology platforms. Proven expertise in building automation frameworks from the ground up using Cypress and WebdriverIO, achieving up to 67% reduction in regression cycles. Skilled in AWS serverless architectures, CI/CD pipeline optimization, shift-left testing, and Agile/Scrum delivery, consistently enabling faster, defect-free production releases at scale..</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=olalekanlasisi&label=Profile%20views&color=0e75b6&style=flat" alt="olalekanlasisi" /> </p>
 
